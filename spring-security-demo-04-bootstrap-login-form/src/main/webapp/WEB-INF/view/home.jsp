@@ -8,7 +8,7 @@
 	</head>
 	
 	<body>
-		<h2>Company Home Page --- Yoohoo!!--- test</h2>
+		<h2>Company Home Page</h2>
 		<hr>
 		
 		Welcome to the company home page!
