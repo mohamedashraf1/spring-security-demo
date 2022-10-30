@@ -31,7 +31,7 @@
 		
 		<!-- Add a link to point to /leaders ... this is for the managers -->
 		<p>
-			<a href="${ageContext.request.contextPath}/leaders">LeaderShip Meeting</a>
+			<a href="${pageContext.request.contextPath}/leaders">LeaderShip Meeting</a>
 			(Only for managers)
 		</p>
 		
