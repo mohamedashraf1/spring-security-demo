@@ -24,7 +24,7 @@
 		<p>
 			User: <security:authentication property="principal.username"/>
 			<br><br>
-			Role(s): <security:authentication property="principal.authority"/>
+			Role(s): <security:authentication property="principal.authorities"/>
 		</p>
 		
 		<hr>
